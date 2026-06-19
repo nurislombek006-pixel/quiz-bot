@@ -1,0 +1,12 @@
+# private backend/data files — do not commit to public GitHub
+cloudflare-backend-private/
+worker.js
+activate.py
+tests.json
+premium_users.json
+banned_users.json
+device_locks.json
+access_keys.json
+*.zip
+.env
+.env.*
