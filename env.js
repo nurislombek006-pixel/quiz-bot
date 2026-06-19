@@ -4,6 +4,6 @@
 
 (function () {
   window.__APP_ENV = {
-    BACKEND_URL: "https://shrill-waterfall-46fd.nurislombek006.workers.dev"
+    BACKEND_URL: "https://quizbot-backend.application-site.workers.dev/"
   };
 })();
